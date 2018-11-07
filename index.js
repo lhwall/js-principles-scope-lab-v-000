@@ -9,6 +9,7 @@ var bestCustomer
 
 function setBestCustomer(){
   bestCustomer = "not bob"
+  return bestCustomer
 }
 
 funtion overwriteBestCustomer(){
