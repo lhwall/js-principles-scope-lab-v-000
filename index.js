@@ -7,15 +7,15 @@ function upperCaseCustomerName(){
 
 var bestCustomer
 
-function setBestCustomer(){
-  bestCustomer = "not bob"
-  return bestCustomer
-}
-
-funtion overwriteBestCustomer(){
-
-}
-
-function changeLeastFavoriteCustomer(){
-
-}
+// function setBestCustomer(){
+//   bestCustomer = "not bob"
+//   return bestCustomer
+// }
+// 
+// funtion overwriteBestCustomer(){
+// 
+// }
+// 
+// function changeLeastFavoriteCustomer(){
+// 
+// }
